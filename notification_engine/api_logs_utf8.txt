@@ -1,0 +1,200 @@
+﻿api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | INFO:     127.0.0.1:53372 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     127.0.0.1:53374 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     127.0.0.1:53380 - "POST /notify HTTP/1.1" 200 OK
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | INFO:     Shutting down
+api-1  | INFO:     Waiting for application shutdown.
+api-1  | INFO:     Application shutdown complete.
+api-1  | INFO:     Finished server process [1]
+api-1  | INFO:     Started server process [1]
+api-1  | INFO:     Waiting for application startup.
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | INFO:     Application startup complete.
+api-1  | INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | Scheduler error: can't compare offset-naive and offset-aware datetimes
+api-1  | INFO:     Shutting down
+api-1  | INFO:     Waiting for application shutdown.
+api-1  | INFO:     Application shutdown complete.
+api-1  | INFO:     Finished server process [1]
+api-1  | INFO:     Started server process [1]
+api-1  | INFO:     Waiting for application startup.
+api-1  | INFO:     Application startup complete.
+api-1  | INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
+api-1  | INFO:     127.0.0.1:44964 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     127.0.0.1:44966 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     127.0.0.1:44978 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:44606 - "GET /signup HTTP/1.1" 302 Found
+api-1  | INFO:     172.19.0.1:44606 - "GET / HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:44606 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:39476 - "GET /logout HTTP/1.1" 302 Found
+api-1  | INFO:     172.19.0.1:39476 - "GET /login HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:39476 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:39484 - "GET /signup HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:39484 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:39494 - "POST /api/signup HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:39494 - "GET / HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:39494 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:36908 - "GET /docs HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:36908 - "GET /openapi.json HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:36580 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:56416 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:36108 - "GET /docs HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:36108 - "GET /openapi.json HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:36108 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:36108 - "GET / HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:36108 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:59322 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:48994 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:42358 - "POST /notify HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:46982 - "GET /audit HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:46982 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:46988 - "GET /audit HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:46988 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:58664 - "GET /audit HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:58664 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:51286 - "GET / HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:51286 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:55200 - "GET /metrics HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:55200 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:55204 - "GET /audit HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:55204 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:43754 - "GET /metrics HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:43754 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:39218 - "GET /metrics HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:39218 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:39218 - "GET /audit HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:39218 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:41946 - "GET /metrics HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:41946 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:47242 - "GET /docs HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:47242 - "GET /openapi.json HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:54048 - "GET /favicon.ico HTTP/1.1" 204 No Content
+api-1  | INFO:     172.19.0.1:55964 - "GET /metrics HTTP/1.1" 200 OK
+api-1  | INFO:     172.19.0.1:55964 - "GET /favicon.ico HTTP/1.1" 204 No Content

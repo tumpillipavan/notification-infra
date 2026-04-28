@@ -1,0 +1,200 @@
+﻿worker-1  | 2026-03-25 11:38:14,550 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:40:26 notification_tasks: app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) (c52ba3d8-4b08-4ea6-b829-72d85ef57572)
+worker-1  | 2026-03-25 11:40:27,258 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:40:27.257049", "user_id": "string", "event_type": "string", "priority_hint": "low", "decision": "NEVER", "reason": "Event expired before evaluation", "rule_applied": "expiry_rule", "trace": ["Expiry check failed: 2026-03-25 11:40:05.650000+00:00"], "fallback_triggered": false, "latency_ms": 0.18477439880371094}
+worker-1  | 11:40:27 Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.295243s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 11:40:27 notification_tasks: Job OK (c52ba3d8-4b08-4ea6-b829-72d85ef57572)
+worker-1  | 2026-03-25 11:40:27,284 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.295243s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 2026-03-25 11:40:27,285 - rq.worker - INFO - notification_tasks: Job OK (c52ba3d8-4b08-4ea6-b829-72d85ef57572)
+worker-1  | 2026-03-25 11:40:27,286 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:40:27 Result is kept for 500 seconds
+worker-1  | 11:40:35 notification_tasks: app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) (ab0cc631-ce34-41f1-924a-3baf3202eb2c)
+worker-1  | 2026-03-25 11:40:35,970 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:40:35.968463", "user_id": "string", "event_type": "string", "priority_hint": "low", "decision": "NEVER", "reason": "Event expired before evaluation", "rule_applied": "expiry_rule", "trace": ["Expiry check failed: 2026-03-25 11:40:05.650000+00:00"], "fallback_triggered": false, "latency_ms": 0.12135505676269531}
+worker-1  | 2026-03-25 11:40:35,984 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.323536s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 11:40:35 Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.323536s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 11:40:35 notification_tasks: Job OK (ab0cc631-ce34-41f1-924a-3baf3202eb2c)
+worker-1  | 11:40:35 Result is kept for 500 seconds
+worker-1  | 2026-03-25 11:40:35,985 - rq.worker - INFO - notification_tasks: Job OK (ab0cc631-ce34-41f1-924a-3baf3202eb2c)
+worker-1  | 2026-03-25 11:40:35,985 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:40:44 notification_tasks: app.tasks.process_notification_task({'user_id': 'browser_test_1', 'event_type': 'promo', 'message': 'Testing da...) (ad2407c9-2a94-4825-a426-2e6d730450be)
+worker-1  | 2026-03-25 11:40:45,392 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:40:45.391616", "user_id": "browser_test_1", "event_type": "promo", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.68", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 10.295391082763672}
+worker-1  | 11:40:45 Successfully completed app.tasks.process_notification_task({'user_id': 'browser_test_1', 'event_type': 'promo', 'message': 'Testing da...) job in 0:00:00.292272s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 11:40:45 notification_tasks: Job OK (ad2407c9-2a94-4825-a426-2e6d730450be)
+worker-1  | 2026-03-25 11:40:45,400 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'browser_test_1', 'event_type': 'promo', 'message': 'Testing da...) job in 0:00:00.292272s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 2026-03-25 11:40:45,400 - rq.worker - INFO - notification_tasks: Job OK (ad2407c9-2a94-4825-a426-2e6d730450be)
+worker-1  | 2026-03-25 11:40:45,401 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:40:45 Result is kept for 500 seconds
+worker-1  | 11:43:18 notification_tasks: app.tasks.process_notification_task({'user_id': 'browser_test_2', 'event_type': 'promo', 'message': 'Testing da...) (fbbe34bd-2ce8-4c7e-b455-189322aa2794)
+worker-1  | 2026-03-25 11:43:18,920 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:43:18.919679", "user_id": "browser_test_2", "event_type": "promo", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.59", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 2.687215805053711}
+worker-1  | 2026-03-25 11:43:18,938 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'browser_test_2', 'event_type': 'promo', 'message': 'Testing da...) job in 0:00:00.212040s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 2026-03-25 11:43:18,939 - rq.worker - INFO - notification_tasks: Job OK (fbbe34bd-2ce8-4c7e-b455-189322aa2794)
+worker-1  | 11:43:18 Successfully completed app.tasks.process_notification_task({'user_id': 'browser_test_2', 'event_type': 'promo', 'message': 'Testing da...) job in 0:00:00.212040s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 11:43:18 notification_tasks: Job OK (fbbe34bd-2ce8-4c7e-b455-189322aa2794)
+worker-1  | 2026-03-25 11:43:18,940 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:43:18 Result is kept for 500 seconds
+worker-1  | 11:44:12 notification_tasks: app.tasks.process_notification_task({'user_id': 'FINAL_CHECK_USER', 'event_type': 'promo', 'message': 'Final te...) (907edc53-e80e-42db-a793-8ae3b6ef717e)
+worker-1  | 2026-03-25 11:44:13,079 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:44:13.078340", "user_id": "FINAL_CHECK_USER", "event_type": "promo", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.42", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 2.404451370239258}
+worker-1  | 2026-03-25 11:44:13,099 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_CHECK_USER', 'event_type': 'promo', 'message': 'Final te...) job in 0:00:00.206765s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 2026-03-25 11:44:13,100 - rq.worker - INFO - notification_tasks: Job OK (907edc53-e80e-42db-a793-8ae3b6ef717e)
+worker-1  | 11:44:13 Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_CHECK_USER', 'event_type': 'promo', 'message': 'Final te...) job in 0:00:00.206765s on worker bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | 11:44:13 notification_tasks: Job OK (907edc53-e80e-42db-a793-8ae3b6ef717e)
+worker-1  | 11:44:13 Result is kept for 500 seconds
+worker-1  | 2026-03-25 11:44:13,100 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:46:27 Worker bc5a0507f9eb40d0a338d8ac98f2827d [PID 1]: warm shut down requested
+worker-1  | 11:46:27 Worker bc5a0507f9eb40d0a338d8ac98f2827d: unsubscribing from channel rq:pubsub:bc5a0507f9eb40d0a338d8ac98f2827d
+worker-1  | --- Notification Worker Starting (Redis: redis://redis:6379) ---
+worker-1  | 11:46:30 Worker a578b60d2b8b4fdebc68dc2df0aaaf9d: started with PID 1, version 2.7.0
+worker-1  | 11:46:30 Worker a578b60d2b8b4fdebc68dc2df0aaaf9d: subscribing to channel rq:pubsub:a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:46:30 *** Listening on notification_tasks...
+worker-1  | 11:46:30 Worker a578b60d2b8b4fdebc68dc2df0aaaf9d: cleaning registries for queue: notification_tasks
+worker-1  | 11:48:57 notification_tasks: app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) (955ff6df-fdbf-4ff3-ab54-6dc2386a4418)
+worker-1  | 2026-03-25 11:48:57,967 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:48:57.967204+00:00", "user_id": "string", "event_type": "string", "priority_hint": "low", "decision": "NEVER", "reason": "Event expired before evaluation", "rule_applied": "expiry_rule", "trace": ["Expiry check failed: 2026-03-25 11:48:37.816000+00:00"], "fallback_triggered": false, "latency_ms": 0.21600723266601562}
+worker-1  | 11:48:57 Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.200905s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:48:57 notification_tasks: Job OK (955ff6df-fdbf-4ff3-ab54-6dc2386a4418)
+worker-1  | 2026-03-25 11:48:57,984 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.200905s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:48:57,985 - rq.worker - INFO - notification_tasks: Job OK (955ff6df-fdbf-4ff3-ab54-6dc2386a4418)
+worker-1  | 2026-03-25 11:48:57,986 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:48:57 Result is kept for 500 seconds
+worker-1  | 11:49:52 notification_tasks: app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) (f0aadea5-2d07-4c2d-9a51-41117e6fa9ff)
+worker-1  | 2026-03-25 11:49:53,634 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:49:53.632774+00:00", "user_id": "string", "event_type": "string", "priority_hint": "low", "decision": "NEVER", "reason": "Event expired before evaluation", "rule_applied": "expiry_rule", "trace": ["Expiry check failed: 2026-03-25 11:49:39.017000+00:00"], "fallback_triggered": false, "latency_ms": 0.30303001403808594}
+worker-1  | 11:49:53 Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.324085s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:49:53,656 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.324085s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:49:53,657 - rq.worker - INFO - notification_tasks: Job OK (f0aadea5-2d07-4c2d-9a51-41117e6fa9ff)
+worker-1  | 11:49:53 notification_tasks: Job OK (f0aadea5-2d07-4c2d-9a51-41117e6fa9ff)
+worker-1  | 2026-03-25 11:49:53,658 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:49:53 Result is kept for 500 seconds
+worker-1  | 11:50:08 notification_tasks: app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) (373dfa6a-81f6-47b1-aa20-e8f64f0127b9)
+worker-1  | 2026-03-25 11:50:08,515 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:50:08.515338+00:00", "user_id": "FINAL_TEST_USER", "event_type": "promo", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.60", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 11.444330215454102}
+worker-1  | 11:50:08 Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) job in 0:00:00.257578s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:50:08 notification_tasks: Job OK (373dfa6a-81f6-47b1-aa20-e8f64f0127b9)
+worker-1  | 2026-03-25 11:50:08,525 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) job in 0:00:00.257578s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:50:08,526 - rq.worker - INFO - notification_tasks: Job OK (373dfa6a-81f6-47b1-aa20-e8f64f0127b9)
+worker-1  | 2026-03-25 11:50:08,526 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:50:08 Result is kept for 500 seconds
+worker-1  | 11:51:55 notification_tasks: app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) (0327aee0-26d2-47ea-b3b0-8fe0f7f9f673)
+worker-1  | 2026-03-25 11:51:55,916 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:51:55.916151+00:00", "user_id": "FINAL_TEST_USER", "event_type": "promo", "priority_hint": "high", "decision": "LATER", "reason": "Cooldown active. Wait 2 minutes between push alerts.", "rule_applied": "fatigue_rule_v1", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check failed: Cooldown active. Wait 2 minutes between push alerts."], "fallback_triggered": false, "latency_ms": 3.5576820373535156}
+worker-1  | 11:51:55 Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) job in 0:00:00.220620s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:51:55 notification_tasks: Job OK (0327aee0-26d2-47ea-b3b0-8fe0f7f9f673)
+worker-1  | 2026-03-25 11:51:55,929 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) job in 0:00:00.220620s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:51:55,929 - rq.worker - INFO - notification_tasks: Job OK (0327aee0-26d2-47ea-b3b0-8fe0f7f9f673)
+worker-1  | 11:51:55 Result is kept for 500 seconds
+worker-1  | 2026-03-25 11:51:55,930 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:52:25 notification_tasks: app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) (96338567-0a7e-42b5-a247-b03699eb6a8e)
+worker-1  | 2026-03-25 11:52:26,084 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:52:26.083535+00:00", "user_id": "FINAL_TEST_USER", "event_type": "promo", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.65", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 4.781961441040039}
+worker-1  | 11:52:26 Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) job in 0:00:00.295737s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:52:26 notification_tasks: Job OK (96338567-0a7e-42b5-a247-b03699eb6a8e)
+worker-1  | 2026-03-25 11:52:26,105 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER', 'event_type': 'promo', 'message': 'Final Ver...) job in 0:00:00.295737s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:52:26,106 - rq.worker - INFO - notification_tasks: Job OK (96338567-0a7e-42b5-a247-b03699eb6a8e)
+worker-1  | 2026-03-25 11:52:26,107 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:52:26 Result is kept for 500 seconds
+worker-1  | 11:54:28 notification_tasks: app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER_v2', 'event_type': 'promo', 'message': 'Immedi...) (f709b67f-3d8c-4933-99a6-94d089bef1d5)
+worker-1  | 2026-03-25 11:54:28,545 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:54:28.542790+00:00", "user_id": "FINAL_TEST_USER_v2", "event_type": "promo", "priority_hint": "high", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.42", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 3.7882328033447266}
+worker-1  | 2026-03-25 11:54:28,570 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER_v2', 'event_type': 'promo', 'message': 'Immedi...) job in 0:00:00.346337s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:54:28 Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER_v2', 'event_type': 'promo', 'message': 'Immedi...) job in 0:00:00.346337s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:54:28 notification_tasks: Job OK (f709b67f-3d8c-4933-99a6-94d089bef1d5)
+worker-1  | 2026-03-25 11:54:28,571 - rq.worker - INFO - notification_tasks: Job OK (f709b67f-3d8c-4933-99a6-94d089bef1d5)
+worker-1  | 11:54:28 Result is kept for 500 seconds
+worker-1  | 2026-03-25 11:54:28,574 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:55:11 notification_tasks: app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER_v3', 'event_type': 'transaction', 'message': '...) (c6535efd-3444-4931-bb96-eb81a5e7cdc3)
+worker-1  | 2026-03-25 11:55:11,483 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:55:11.481443+00:00", "user_id": "FINAL_TEST_USER_v3", "event_type": "transaction", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.54", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 2.2115707397460938}
+worker-1  | 2026-03-25 11:55:11,511 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER_v3', 'event_type': 'transaction', 'message': '...) job in 0:00:00.335248s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:55:11,512 - rq.worker - INFO - notification_tasks: Job OK (c6535efd-3444-4931-bb96-eb81a5e7cdc3)
+worker-1  | 11:55:11 Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_TEST_USER_v3', 'event_type': 'transaction', 'message': '...) job in 0:00:00.335248s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:55:11 notification_tasks: Job OK (c6535efd-3444-4931-bb96-eb81a5e7cdc3)
+worker-1  | 2026-03-25 11:55:11,513 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 11:55:11 Result is kept for 500 seconds
+worker-1  | 11:55:32 notification_tasks: app.tasks.process_notification_task({'user_id': 'UNIQUE_ID_888', 'event_type': 'promo', 'message': 'Testing the...) (67b1644f-0295-4ec9-93e6-5fc2ee23c784)
+worker-1  | 2026-03-25 11:55:33,013 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T11:55:33.012140+00:00", "user_id": "UNIQUE_ID_888", "event_type": "promo", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.57", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 3.576040267944336}
+worker-1  | 11:55:33 Successfully completed app.tasks.process_notification_task({'user_id': 'UNIQUE_ID_888', 'event_type': 'promo', 'message': 'Testing the...) job in 0:00:00.350619s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 11:55:33,040 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'UNIQUE_ID_888', 'event_type': 'promo', 'message': 'Testing the...) job in 0:00:00.350619s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 11:55:33 notification_tasks: Job OK (67b1644f-0295-4ec9-93e6-5fc2ee23c784)
+worker-1  | 2026-03-25 11:55:33,043 - rq.worker - INFO - notification_tasks: Job OK (67b1644f-0295-4ec9-93e6-5fc2ee23c784)
+worker-1  | 11:55:33 Result is kept for 500 seconds
+worker-1  | 2026-03-25 11:55:33,044 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:02:18 Worker a578b60d2b8b4fdebc68dc2df0aaaf9d: cleaning registries for queue: notification_tasks
+worker-1  | 12:15:48 Worker a578b60d2b8b4fdebc68dc2df0aaaf9d: cleaning registries for queue: notification_tasks
+worker-1  | 12:22:03 notification_tasks: app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'transaction', 'message': 'You receiv...) (0ac6f91c-42b2-4a7f-abf5-0b9c96c01a3d)
+worker-1  | 2026-03-25 12:22:04,142 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:22:04.141450+00:00", "user_id": "user_123", "event_type": "transaction", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.49", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 5.011796951293945}
+worker-1  | 2026-03-25 12:22:04,159 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'transaction', 'message': 'You receiv...) job in 0:00:00.273246s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 12:22:04,160 - rq.worker - INFO - notification_tasks: Job OK (0ac6f91c-42b2-4a7f-abf5-0b9c96c01a3d)
+worker-1  | 12:22:04 Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'transaction', 'message': 'You receiv...) job in 0:00:00.273246s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 12:22:04 notification_tasks: Job OK (0ac6f91c-42b2-4a7f-abf5-0b9c96c01a3d)
+worker-1  | 12:22:04 Result is kept for 500 seconds
+worker-1  | 2026-03-25 12:22:04,160 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:22:04 notification_tasks: app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) (113e6e9f-d318-4b34-acb8-cfd2c4bc2d62)
+worker-1  | 2026-03-25 12:22:04,401 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:22:04.401702+00:00", "user_id": "user_123", "event_type": "alert", "priority_hint": "low", "decision": "LATER", "reason": "Cooldown active. Wait 2 minutes between push alerts.", "rule_applied": "fatigue_rule_v1", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check failed: Cooldown active. Wait 2 minutes between push alerts."], "fallback_triggered": false, "latency_ms": 2.348184585571289}
+worker-1  | 2026-03-25 12:22:04,409 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.201736s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 12:22:04,409 - rq.worker - INFO - notification_tasks: Job OK (113e6e9f-d318-4b34-acb8-cfd2c4bc2d62)
+worker-1  | 12:22:04 Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.201736s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 12:22:04 notification_tasks: Job OK (113e6e9f-d318-4b34-acb8-cfd2c4bc2d62)
+worker-1  | 2026-03-25 12:22:04,409 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:22:04 Result is kept for 500 seconds
+worker-1  | 12:22:04 notification_tasks: app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) (97aab159-c56c-4268-b850-db0fc1c7fcd4)
+worker-1  | 2026-03-25 12:22:04,591 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:22:04.591141+00:00", "user_id": "user_123", "event_type": "alert", "priority_hint": "low", "decision": "NEVER", "reason": "Exact duplicate detected (dedupe_key hit)", "rule_applied": "dedupe_exact", "trace": ["Expiry check passed", "Exact duplicate check hit"], "fallback_triggered": false, "latency_ms": 0.43463706970214844}
+worker-1  | 12:22:04 Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.162708s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 12:22:04 notification_tasks: Job OK (97aab159-c56c-4268-b850-db0fc1c7fcd4)
+worker-1  | 2026-03-25 12:22:04,595 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.162708s on worker a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | 2026-03-25 12:22:04,596 - rq.worker - INFO - notification_tasks: Job OK (97aab159-c56c-4268-b850-db0fc1c7fcd4)
+worker-1  | 12:22:04 Result is kept for 500 seconds
+worker-1  | 2026-03-25 12:22:04,596 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:23:40 Worker a578b60d2b8b4fdebc68dc2df0aaaf9d [PID 1]: warm shut down requested
+worker-1  | 12:23:40 Worker a578b60d2b8b4fdebc68dc2df0aaaf9d: unsubscribing from channel rq:pubsub:a578b60d2b8b4fdebc68dc2df0aaaf9d
+worker-1  | --- Notification Worker Starting (Redis: redis://redis:6379) ---
+worker-1  | 12:23:43 Worker 63d9db5414c64e8c9e980ae948f35157: started with PID 1, version 2.7.0
+worker-1  | 12:23:43 Worker 63d9db5414c64e8c9e980ae948f35157: subscribing to channel rq:pubsub:63d9db5414c64e8c9e980ae948f35157
+worker-1  | 12:23:43 *** Listening on notification_tasks...
+worker-1  | 12:23:43 Worker 63d9db5414c64e8c9e980ae948f35157: cleaning registries for queue: notification_tasks
+worker-1  | 12:31:16 Worker 63d9db5414c64e8c9e980ae948f35157 [PID 1]: warm shut down requested
+worker-1  | 12:31:16 Worker 63d9db5414c64e8c9e980ae948f35157: unsubscribing from channel rq:pubsub:63d9db5414c64e8c9e980ae948f35157
+worker-1  | --- Notification Worker Starting (Redis: redis://redis:6379) ---
+worker-1  | 12:31:20 Worker 2be36b30ee934d61a96dc97f01065766: started with PID 1, version 2.7.0
+worker-1  | 12:31:20 Worker 2be36b30ee934d61a96dc97f01065766: subscribing to channel rq:pubsub:2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:31:20 *** Listening on notification_tasks...
+worker-1  | 12:31:20 Worker 2be36b30ee934d61a96dc97f01065766: cleaning registries for queue: notification_tasks
+worker-1  | 12:32:13 notification_tasks: app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'transaction', 'message': 'You receiv...) (99c89d66-7e0e-4c36-a7bb-34c3c251de05)
+worker-1  | 2026-03-25 12:32:13,347 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:32:13.347697+00:00", "user_id": "user_123", "event_type": "transaction", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.58", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 1.7426013946533203}
+worker-1  | 2026-03-25 12:32:13,355 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'transaction', 'message': 'You receiv...) job in 0:00:00.177481s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 2026-03-25 12:32:13,356 - rq.worker - INFO - notification_tasks: Job OK (99c89d66-7e0e-4c36-a7bb-34c3c251de05)
+worker-1  | 12:32:13 Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'transaction', 'message': 'You receiv...) job in 0:00:00.177481s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:32:13 notification_tasks: Job OK (99c89d66-7e0e-4c36-a7bb-34c3c251de05)
+worker-1  | 2026-03-25 12:32:13,356 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:32:13 Result is kept for 500 seconds
+worker-1  | 12:32:13 notification_tasks: app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) (f7bf5dd2-96b3-4595-a491-d2bb32ac990b)
+worker-1  | 2026-03-25 12:32:13,554 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:32:13.554229+00:00", "user_id": "user_123", "event_type": "alert", "priority_hint": "low", "decision": "LATER", "reason": "Cooldown active. Wait 2 minutes between push alerts.", "rule_applied": "fatigue_rule_v1", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check failed: Cooldown active. Wait 2 minutes between push alerts."], "fallback_triggered": false, "latency_ms": 1.8258094787597656}
+worker-1  | 2026-03-25 12:32:13,560 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.174898s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 2026-03-25 12:32:13,560 - rq.worker - INFO - notification_tasks: Job OK (f7bf5dd2-96b3-4595-a491-d2bb32ac990b)
+worker-1  | 12:32:13 Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.174898s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:32:13 notification_tasks: Job OK (f7bf5dd2-96b3-4595-a491-d2bb32ac990b)
+worker-1  | 2026-03-25 12:32:13,560 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:32:13 Result is kept for 500 seconds
+worker-1  | 12:32:13 notification_tasks: app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) (fed17f34-9533-4a77-ad2a-d7c011d88188)
+worker-1  | 2026-03-25 12:32:13,715 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:32:13.715759+00:00", "user_id": "user_123", "event_type": "alert", "priority_hint": "low", "decision": "NEVER", "reason": "Exact duplicate detected (dedupe_key hit)", "rule_applied": "dedupe_exact", "trace": ["Expiry check passed", "Exact duplicate check hit"], "fallback_triggered": false, "latency_ms": 0.4391670227050781}
+worker-1  | 2026-03-25 12:32:13,720 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.136824s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 2026-03-25 12:32:13,720 - rq.worker - INFO - notification_tasks: Job OK (fed17f34-9533-4a77-ad2a-d7c011d88188)
+worker-1  | 12:32:13 Successfully completed app.tasks.process_notification_task({'user_id': 'user_123', 'event_type': 'alert', 'message': 'Duplicate Alert'...) job in 0:00:00.136824s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:32:13 notification_tasks: Job OK (fed17f34-9533-4a77-ad2a-d7c011d88188)
+worker-1  | 12:32:13 Result is kept for 500 seconds
+worker-1  | 2026-03-25 12:32:13,720 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:37:43 notification_tasks: app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) (d0dc9864-043b-436d-882b-674877d377e5)
+worker-1  | 2026-03-25 12:37:43,954 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:37:43.953531+00:00", "user_id": "string", "event_type": "string", "priority_hint": "low", "decision": "NEVER", "reason": "Event expired before evaluation", "rule_applied": "expiry_rule", "trace": ["Expiry check failed: 2026-03-25 12:37:09.443000+00:00"], "fallback_triggered": false, "latency_ms": 0.3466606140136719}
+worker-1  | 2026-03-25 12:37:43,971 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.286516s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:37:43 Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.286516s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:37:43 notification_tasks: Job OK (d0dc9864-043b-436d-882b-674877d377e5)
+worker-1  | 2026-03-25 12:37:43,972 - rq.worker - INFO - notification_tasks: Job OK (d0dc9864-043b-436d-882b-674877d377e5)
+worker-1  | 2026-03-25 12:37:43,972 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:37:43 Result is kept for 500 seconds
+worker-1  | 12:37:52 notification_tasks: app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) (eb454f26-3aad-4b9d-a552-dd6a2e8c456d)
+worker-1  | 2026-03-25 12:37:52,537 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:37:52.537012+00:00", "user_id": "string", "event_type": "string", "priority_hint": "low", "decision": "NEVER", "reason": "Event expired before evaluation", "rule_applied": "expiry_rule", "trace": ["Expiry check failed: 2026-03-25 12:37:09.443000+00:00"], "fallback_triggered": false, "latency_ms": 0.2722740173339844}
+worker-1  | 12:37:52 Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.259242s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:37:52 notification_tasks: Job OK (eb454f26-3aad-4b9d-a552-dd6a2e8c456d)
+worker-1  | 2026-03-25 12:37:52,549 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'string', 'event_type': 'string', 'message': 'string', 'priorit...) job in 0:00:00.259242s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 2026-03-25 12:37:52,550 - rq.worker - INFO - notification_tasks: Job OK (eb454f26-3aad-4b9d-a552-dd6a2e8c456d)
+worker-1  | 2026-03-25 12:37:52,550 - rq.worker - INFO - Result is kept for 500 seconds
+worker-1  | 12:37:52 Result is kept for 500 seconds
+worker-1  | 12:38:21 notification_tasks: app.tasks.process_notification_task({'user_id': 'FINAL_UI_VERIFY', 'event_type': 'promo', 'message': 'Testing d...) (492cb1e5-1c21-4102-a3a9-8f90c4d00223)
+worker-1  | 2026-03-25 12:38:22,054 - AuditLogger - INFO - AUDIT_LOG: {"timestamp": "2026-03-25T12:38:22.053918+00:00", "user_id": "FINAL_UI_VERIFY", "event_type": "promo", "priority_hint": "low", "decision": "NOW", "reason": "Passed all checks", "rule_applied": "default_allow", "trace": ["Expiry check passed", "Exact duplicate check passed", "Near duplicate check passed (simulated)", "Standard priority: Subject to fatigue limits", "Alert fatigue check passed", "AI Score: 0.70", "Rule engine check passed"], "fallback_triggered": false, "latency_ms": 8.85915756225586}
+worker-1  | 12:38:22 Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_UI_VERIFY', 'event_type': 'promo', 'message': 'Testing d...) job in 0:00:00.241748s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 12:38:22 notification_tasks: Job OK (492cb1e5-1c21-4102-a3a9-8f90c4d00223)
+worker-1  | 2026-03-25 12:38:22,066 - rq.worker - INFO - Successfully completed app.tasks.process_notification_task({'user_id': 'FINAL_UI_VERIFY', 'event_type': 'promo', 'message': 'Testing d...) job in 0:00:00.241748s on worker 2be36b30ee934d61a96dc97f01065766
+worker-1  | 2026-03-25 12:38:22,066 - rq.worker - INFO - notification_tasks: Job OK (492cb1e5-1c21-4102-a3a9-8f90c4d00223)
+worker-1  | 12:38:22 Result is kept for 500 seconds
+worker-1  | 2026-03-25 12:38:22,068 - rq.worker - INFO - Result is kept for 500 seconds
