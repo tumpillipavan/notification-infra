@@ -4,7 +4,7 @@
 
 ---
 
-## 🚀 Keys Feature
+## 🚀 Key Feature
 
 - **Authentication System**: Secure signup/login with session cookies, password toggle, balloon animation on signup, and user avatar on dashboard.
 - **Decision Pipeline**: 7-stage evaluation per event — Expiry → Dedupe → Near-Dedupe → Critical Priority → Fatigue → AI Score → Rule Engine.
